@@ -11,7 +11,7 @@ public abstract class Class68
     public static int anInt1325;
     public static int anInt1326;
     public static RSString aClass16_1327
-	= Class37_Sub2.crateRSString((byte) 122, "Welcome to RuneScape");
+	= Class37_Sub2.crateRSString((byte) 122, "Welcome to Kweeh?");
     public static int anInt1328;
     public static int[][] anIntArrayArray1329;
     
